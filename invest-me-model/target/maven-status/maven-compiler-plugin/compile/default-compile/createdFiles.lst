@@ -1,1 +1,6 @@
+com/investmeinc/fs/domain/tDAmeritrade/InitialBalances.class
 com/investmeinc/fs/domain/user/User.class
+com/investmeinc/fs/domain/tDAmeritrade/TDAmeritradeResponse.class
+com/investmeinc/fs/domain/tDAmeritrade/CurrentBalances.class
+com/investmeinc/fs/domain/tDAmeritrade/ProjectedBalances.class
+com/investmeinc/fs/domain/tDAmeritrade/SecuritiesAccount.class

@@ -1,2 +1,4 @@
+com/investmeinc/fs/config/SpringConfig.class
+com/investmeinc/fs/services/tDAmeritrade/TDAmeritradeGetAccountServiceImpl.class
 com/investmeinc/fs/Application.class
 com/investmeinc/fs/api/user/UserApi.class

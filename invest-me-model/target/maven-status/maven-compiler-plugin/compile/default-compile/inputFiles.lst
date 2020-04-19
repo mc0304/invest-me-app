@@ -1,1 +1,6 @@
-/development/back-end/invest-me-app/invest-me-model/src/main/java/com/investmeinc/fs/domain/user/User.java
+/Users/michaelcarter/development/back-end/invest-me-app/invest-me-model/src/main/java/com/investmeinc/fs/domain/tDAmeritrade/CurrentBalances.java
+/Users/michaelcarter/development/back-end/invest-me-app/invest-me-model/src/main/java/com/investmeinc/fs/domain/user/User.java
+/Users/michaelcarter/development/back-end/invest-me-app/invest-me-model/src/main/java/com/investmeinc/fs/domain/tDAmeritrade/TDAmeritradeResponse.java
+/Users/michaelcarter/development/back-end/invest-me-app/invest-me-model/src/main/java/com/investmeinc/fs/domain/tDAmeritrade/SecuritiesAccount.java
+/Users/michaelcarter/development/back-end/invest-me-app/invest-me-model/src/main/java/com/investmeinc/fs/domain/tDAmeritrade/InitialBalances.java
+/Users/michaelcarter/development/back-end/invest-me-app/invest-me-model/src/main/java/com/investmeinc/fs/domain/tDAmeritrade/ProjectedBalances.java
